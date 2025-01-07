@@ -1,3 +1,4 @@
 First line in git file
 second line for git
 Third line in remote changes
+adding fourth line to file
